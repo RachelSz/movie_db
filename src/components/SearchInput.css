@@ -1,0 +1,16 @@
+input.search-input {
+  height: 24px;
+  min-width: 300px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  text-indent: 5px;
+}
+
+.reset-btn {
+  margin: 0px 0 0 -43px;
+  color: #1e2390;
+  font-size: 12px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
